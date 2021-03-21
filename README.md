@@ -1,6 +1,9 @@
 ## Preparing for coding tests
 ### 1. DFS / BFS
-codingtest/dfsbfs
+#### codingtest/dfsbfs
 - freezingjuice.py
-leetcode
+- maze.py
+#### leetcode
 - 100.py
+- 104.py
+- 111.py
