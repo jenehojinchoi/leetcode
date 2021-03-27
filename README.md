@@ -1,14 +1,14 @@
 ## Preparing for coding tests
-### 1. DFS / BFS
-#### codingtest/dfsbfs
+### codingtest/dfsbfs
 - freezingjuice.py
 - maze.py
-#### leetcode
-- 100.py
-- 104.py
-- 108.py
-- 110.py
-- 111.py
-- 112.py
-- 118.py
-
+### leetcode
+| Number | Title | Difficulty Level | Language |
+| :--------:| :---------------: | :--------------: | :------: |
+| 100       | Same Tree         | Easy             | Python3  |
+| 104       | Maximum Depth of Binary Tree | Easy             | Python3  |
+| 108       | Convert Sorted Array to Binary Search Tree | Easy             | Python3  |
+| 110      | Balanced Binary Tree | Easy             | Python3  |
+| 111      | Minimum Depth of Binary Tree | Easy             | Python3  |
+| 112      | Path Sum | Easy             | Python3  |
+| 118      | Pascals' Triangle | Easy             | Python3  |
