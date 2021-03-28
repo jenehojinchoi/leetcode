@@ -12,3 +12,4 @@
 | 111      | Minimum Depth of Binary Tree | Easy             | Python3  |
 | 112      | Path Sum | Easy             | Python3  |
 | 118      | Pascals' Triangle | Easy             | Python3  |
+| 119      | Pascals' Triangle II | Easy             | Python3  |
