@@ -1,8 +1,9 @@
-## Preparing for coding tests
-### codingtest/dfsbfs
+# Preparing for Coding Interviews
+### Codingtest
+#### DFS/BFS
 - freezingjuice.py
 - maze.py
-### leetcode
+### Leetcode
 | Number | Title | Difficulty Level | Language |
 | :--------:| :---------------: | :--------------: | :------: |
 | 100       | Same Tree         | Easy             | Python3  |
@@ -13,3 +14,4 @@
 | 112      | Path Sum | Easy             | Python3  |
 | 118      | Pascals' Triangle | Easy             | Python3  |
 | 119      | Pascals' Triangle II | Easy             | Python3  |
+| 121      | Best Time to Buy and Sell Stock | Easy             | Python3  |
