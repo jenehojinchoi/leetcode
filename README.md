@@ -15,3 +15,4 @@
 | 118      | Pascals' Triangle | Easy             | Python3  |
 | 119      | Pascals' Triangle II | Easy             | Python3  |
 | 121      | Best Time to Buy and Sell Stock | Easy             | Python3  |
+| 122     | Best Time to Buy and Sell Stock II | Easy             | Python3  |
