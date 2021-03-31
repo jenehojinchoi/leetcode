@@ -16,3 +16,4 @@
 | 119      | Pascals' Triangle II | Easy             | Python3  |
 | 121      | Best Time to Buy and Sell Stock | Easy             | Python3  |
 | 122     | Best Time to Buy and Sell Stock II | Easy             | Python3  |
+| 125   | Valid Palindrome | Easy             | Python3  |
