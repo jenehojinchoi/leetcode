@@ -18,3 +18,4 @@
 | 122     | Best Time to Buy and Sell Stock II | Easy             | Python3  |
 | 125   | Valid Palindrome | Easy             | Python3  |
 | 136   | Single Number | Easy             | Python3  |
+| 141   | Linked List Cycle | Easy             | Python3  |
