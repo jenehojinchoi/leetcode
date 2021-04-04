@@ -20,3 +20,5 @@
 | 136   | Single Number | Easy             | Python3  |
 | 141   | Linked List Cycle | Easy             | Python3  |
 | 155   | Min Stack | Easy             | Python3  |
+| 160   | Intersection of Two Linked Lists | Easy             | Python3  |
+
