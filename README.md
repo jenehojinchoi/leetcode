@@ -21,4 +21,4 @@
 | 141   | Linked List Cycle | Easy             | Python3  |
 | 155   | Min Stack | Easy             | Python3  |
 | 160   | Intersection of Two Linked Lists | Easy             | Python3  |
-
+| 167   | Two Sum II - Input array is sorted | Easy             | Python3  |
