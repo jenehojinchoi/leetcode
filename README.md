@@ -23,3 +23,4 @@
 | 160   | Intersection of Two Linked Lists | Easy             | Python3  |
 | 167   | Two Sum II - Input array is sorted | Easy             | Python3  |
 | 168   | Excel Sheet Column Title | Easy             | Python3  |
+| 169   | Majority Element  | Easy             | Python3  |

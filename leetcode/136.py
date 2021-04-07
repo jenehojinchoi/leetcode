@@ -23,11 +23,11 @@ class Solution:
         for i in nums:
             hash_table[i] += 1
         
-        for i in hash_table:
+        for i in hash_table: 
             if hash_table[i] == 1:
                 return i
 
-# Approach 4. 
+# Approach 4. bit manipulation
 # Time complexity: O(n), Space complexity: O(1)
 class Solution(object):
     def singleNumber(self, nums):
