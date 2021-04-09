@@ -24,3 +24,4 @@
 | 167   | Two Sum II - Input array is sorted | Easy             | Python3  |
 | 168   | Excel Sheet Column Title | Easy             | Python3  |
 | 169   | Majority Element  | Easy             | Python3  |
+| 171   | Excel Sheet Column Number | Easy             | Python3  |
