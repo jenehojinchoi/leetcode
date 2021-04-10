@@ -25,3 +25,4 @@
 | 168   | Excel Sheet Column Title | Easy             | Python3  |
 | 169   | Majority Element  | Easy             | Python3  |
 | 171   | Excel Sheet Column Number | Easy             | Python3  |
+| 172   | Factorial Trailing Zeroes | Easy             | Python3  |
