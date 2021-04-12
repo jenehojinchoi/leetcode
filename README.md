@@ -26,3 +26,6 @@
 | 169   | Majority Element  | Easy             | Python3  |
 | 171   | Excel Sheet Column Number | Easy             | Python3  |
 | 172   | Factorial Trailing Zeroes | Easy             | Python3  |
+| 175   | Combine Two Tables | Easy             | MySQL  |
+| 176   | Second Highest Salary | Easy             | MySQL  |
+| 181   |  Employees Earning More Than Their Managers | Easy             | MySQL  |

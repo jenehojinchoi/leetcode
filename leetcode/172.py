@@ -1,6 +1,8 @@
 # 172. Factorial Trailing Zeroes
+# Counting how many 5s are in n is important 
 
 # Approach 1. Iteration
+# Time Complexity: O(logn)
 class Solution:
     def trailingZeroes(self, n: int) -> int:
         x = 5
