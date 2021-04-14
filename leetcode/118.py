@@ -18,5 +18,3 @@ class Solution:
                     else:
                         parent[i].append(parent[i-1][j-1] + parent[i-1][j])
         return parent
-
-# Approach 2. 

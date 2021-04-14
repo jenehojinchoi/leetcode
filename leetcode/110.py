@@ -8,22 +8,22 @@
 #         self.right = right
 
 # My approach, but bad time complexity
-# class Solution:
-#     def maxDepth(self, root: TreeNode) -> int:
-#         if not root:
-#             return 0
-#         return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
+class Solution:
+    def maxDepth(self, root: TreeNode) -> int:
+        if not root:
+            return 0
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
         
-#     def isBalanced(self, root: TreeNode) -> bool:
-#         if not root:
-#             return True
+    def isBalanced(self, root: TreeNode) -> bool:
+        if not root:
+            return True
 
-#         ldepth = self.maxDepth(root.left)
-#         rdepth = self.maxDepth(root.right)
+        ldepth = self.maxDepth(root.left)
+        rdepth = self.maxDepth(root.right)
         
-#         if abs(ldepth - rdepth) <= 1:
-#             return self.isBalanced(root.left) and self.isBalanced(root.right)
-#         return False
+        if abs(ldepth - rdepth) <= 1:
+            return self.isBalanced(root.left) and self.isBalanced(root.right)
+        return False
 
 # Another approach, but bad space complexity
 class Solution:

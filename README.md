@@ -29,3 +29,5 @@
 | 175   | Combine Two Tables | Easy             | MySQL  |
 | 176   | Second Highest Salary | Easy             | MySQL  |
 | 181   |  Employees Earning More Than Their Managers | Easy             | MySQL  |
+| 182   |  Duplicate Emails | Easy             | MySQL  |
+| 191   |  Number of 1 Bits | Easy             | Python3 |
