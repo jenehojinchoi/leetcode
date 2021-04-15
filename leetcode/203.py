@@ -1,31 +1,32 @@
 # 203. Remove Linked List Elements
 
-# Approach 1. String operations
+# Approach 1. One pointer
 class Solution:
     def removeElements(self, head, val):
         while head and head.val == val: 
             head = head.next 
-            if not head: 
-                return head
+
+        if not head: 
+            return head
                 
-        next_node = head 
-        while next_node and next_node.next:
-            if next_node.next.val == val: 
-                next_node.next = next_node.next.next 
+        current = head 
+        while current and current.next:
+            if current.next.val == val: 
+                current.next = current.next.next 
             else: 
-                next_node = next_node.next 
+                current = current.next 
         return head
 
-# Approach 2. Using dummy, next
+# Approach 2. Two pointers
 class Solution:
     def removeElements(self, head, val): 
-        result = ListNode(-1)
-        result.next = head
-        temp = result
-
-        while temp != None and temp.next != None:
-            if temp.next.val == val:
-                temp.next = temp.next.next
+        dummy = ListNode(next=head)
+        prev, curr = dummy, head
+        
+        while curr:
+            if curr.val == val:
+                prev.next = curr.next
             else:
-                temp = temp.next
-        return result.next
+                prev = curr 
+            curr = curr.next
+        return dummy.next
