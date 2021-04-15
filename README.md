@@ -1,8 +1,4 @@
 # Preparing for Coding Interviews
-### Codingtest
-#### DFS/BFS
-- freezingjuice.py
-- maze.py
 ### Leetcode
 | Number | Title | Difficulty Level | Language |
 | :--------:| :---------------: | :--------------: | :------: |
@@ -31,3 +27,11 @@
 | 181   |  Employees Earning More Than Their Managers | Easy             | MySQL  |
 | 182   |  Duplicate Emails | Easy             | MySQL  |
 | 191   |  Number of 1 Bits | Easy             | Python3 |
+| 193   | Valid Phone Numbers | Easy             | Bash |
+| 196   | Delete Duplicate Emails | Easy             | MySQL |
+| 202  |  Happy Number | Easy             | Python3 |
+
+### Codingtest
+#### DFS/BFS
+- freezingjuice.py
+- maze.py
