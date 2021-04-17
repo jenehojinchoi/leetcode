@@ -30,6 +30,7 @@
 | 193   | Valid Phone Numbers | Easy             | Bash |
 | 196   | Delete Duplicate Emails | Easy             | MySQL |
 | 202  |  Happy Number | Easy             | Python3 |
+| 203  |  Remove Linked List Elements | Easy             | Python3 |
 
 ### Codingtest
 #### DFS/BFS
