@@ -34,6 +34,7 @@
 | 204  |  Count Primes | Easy             | Python3 |
 | 205  |  Isomorphic Strings | Easy             | Python3 |
 | 206  |  Reverse Linked List | Easy             | Python3 |
+| 217  |  Contains Duplicate | Easy             | Python3 |
 
 ### Codingtest
 #### DFS/BFS
