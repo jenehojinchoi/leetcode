@@ -36,6 +36,8 @@
 | 206  |  Reverse Linked List | Easy             | Python3 |
 | 217  |  Contains Duplicate | Easy             | Python3 |
 | 219  |  Contains Duplicate II | Easy             | Python3 |
+| 225  | Implement Stack using Queues | Easy             | Python3 |
+| 226  | Invert Binary Tree | Easy             | Python3 |
 
 ### Codingtest
 #### DFS/BFS
