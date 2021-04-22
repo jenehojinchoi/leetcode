@@ -24,3 +24,10 @@ class Solution:
         head.next = None
         return temp
 
+# Approach 3. Iterative 2
+class Solution:
+    def reverseList(self, head):
+        prev = None
+        while head:
+            head.next,head,prev = prev,head.next,head  
+        return prev
