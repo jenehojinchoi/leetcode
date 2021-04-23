@@ -45,6 +45,7 @@
 | 232 | Implement Queue using Stacks                  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/232.py) |
 | 234 | Palindrome Linked List                        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/234.py) |
 | 242 | Valid Anagram                                 | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/242.py) |
+| 1356 | Sort Integers by The Number of 1 Bits        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/1356.py) |
 
 ### Codingtest
 #### DFS/BFS
