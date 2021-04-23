@@ -44,7 +44,13 @@
 | 231 | Power of Two                                  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/231.py) |
 | 232 | Implement Queue using Stacks                  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/232.py) |
 | 234 | Palindrome Linked List                        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/234.py) |
+
 ### Codingtest
 #### DFS/BFS
 - freezingjuice.py
 - maze.py
+
+### Codecademy
+#### [Learn Sorting Algorithms with Python3](https://www.codecademy.com/learn/sorting-algorithms)
+- bubble_sort.py
+- merge_sort.py
