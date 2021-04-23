@@ -44,6 +44,7 @@
 | 231 | Power of Two                                  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/231.py) |
 | 232 | Implement Queue using Stacks                  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/232.py) |
 | 234 | Palindrome Linked List                        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/234.py) |
+| 242 | Valid Anagram                                 | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/242.py) |
 
 ### Codingtest
 #### DFS/BFS
