@@ -46,6 +46,8 @@
 | 234 | Palindrome Linked List                        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/234.py) |
 | 242 | Valid Anagram                                 | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/242.py) |
 | 257 | Binary Tree Paths                             | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/257.py) |
+| 258 | Add Digits                                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/258.py) |
+| 263 | Ugly Number                                   | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/263.py) |
 | 1356 | Sort Integers by The Number of 1 Bits        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/1356.py) |
 
 ### Codingtest
