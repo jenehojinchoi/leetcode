@@ -49,7 +49,8 @@
 | 258 | Add Digits                                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/258.py) |
 | 263 | Ugly Number                                   | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/263.py) |
 | 349 | Intersection of Two Arrays                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/349.py) |
-| 350 | Intersection of Two Arrays II                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/349.py) |
+| 350 | Intersection of Two Arrays II                 | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/350.py) |
+| 560 | Subarray Sum Equals K                         | Medium            | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/560.py) |
 | 1356 | Sort Integers by The Number of 1 Bits        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/1356.py) |
 
 ### Codingtest
