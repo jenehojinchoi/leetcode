@@ -4,6 +4,8 @@
 ### Leetcode
 | Number | Title                                      | Difficulty Level | Language |
 | :-----:| :------------------------------------:     | :--------------: | :------: |
+| 2     | Add Two Numbers                             | Medium           | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/2.py)  |
+| 19    | Remove Nth Node From End of List            | Medium           | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/19.py)  |  
 | 100   | Same Tree                                   | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/100.py)  |  
 | 104   | Maximum Depth of Binary Tree                | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/104.py) |  
 | 108   | Convert Sorted Array to Binary Search Tree  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/108.py)  |
@@ -44,6 +46,7 @@
 | 231 | Power of Two                                  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/231.py) |
 | 232 | Implement Queue using Stacks                  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/232.py) |
 | 234 | Palindrome Linked List                        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/234.py) |
+| 237 | Delete Node in a Linked List                  | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/237.py) |
 | 242 | Valid Anagram                                 | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/242.py) |
 | 257 | Binary Tree Paths                             | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/257.py) |
 | 258 | Add Digits                                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/258.py) |
