@@ -1,6 +1,5 @@
 # Preparing for Coding Interviews
 <!-- You can click the language (e.g. Python3) to see solution written in that language -->
-
 ### Leetcode
 | Number | Title                                      | Difficulty Level | Language |
 | :-----:| :------------------------------------:     | :--------------: | :------: |
@@ -51,6 +50,7 @@
 | 257 | Binary Tree Paths                             | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/257.py) |
 | 258 | Add Digits                                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/258.py) |
 | 263 | Ugly Number                                   | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/263.py) |
+| 268 | Missing Number                                | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/268.py) |
 | 349 | Intersection of Two Arrays                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/349.py) |
 | 350 | Intersection of Two Arrays II                 | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/350.py) |
 | 560 | Subarray Sum Equals K                         | Medium            | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/560.py) |
