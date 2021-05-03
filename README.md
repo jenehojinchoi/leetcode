@@ -51,6 +51,7 @@
 | 258 | Add Digits                                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/258.py) |
 | 263 | Ugly Number                                   | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/263.py) |
 | 268 | Missing Number                                | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/268.py) |
+| 278 | First Bad Version                             | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/278.py) |
 | 349 | Intersection of Two Arrays                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/349.py) |
 | 350 | Intersection of Two Arrays II                 | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/350.py) |
 | 560 | Subarray Sum Equals K                         | Medium            | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/560.py) |
