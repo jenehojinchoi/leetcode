@@ -54,6 +54,8 @@
 | 278 | First Bad Version                             | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/278.py) |
 | 349 | Intersection of Two Arrays                    | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/349.py) |
 | 350 | Intersection of Two Arrays II                 | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/350.py) |
+| 367 | Valid Perfect Square                          | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/367.py) |
+| 389 | Find the Difference                           | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/389.py) |
 | 560 | Subarray Sum Equals K                         | Medium            | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/560.py) |
 | 1356 | Sort Integers by The Number of 1 Bits        | Easy             | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/1356.py) |
 
