@@ -6,6 +6,7 @@
 
 | Number |                   Title                    | Difficulty Level |                                          Language                                           |
 | :----: | :----------------------------------------: | :--------------: | :-----------------------------------------------------------------------------------------: |
+|   1    |              Two Sum                       |      Easy        |  [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/1.cpp)  |
 |   2    |              Add Two Numbers               |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/2.py)   |
 |   5    |       Longest Palindromic Substring        |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/5.py)   |
 |   19   |      Remove Nth Node From End of List      |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/19.py)  |
