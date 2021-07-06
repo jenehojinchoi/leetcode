@@ -10,6 +10,7 @@
 |   2    |              Add Two Numbers               |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/2.py)   |
 |   5    |       Longest Palindromic Substring        |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/5.py)   |
 |   19   |      Remove Nth Node From End of List      |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/19.py)  |
+|   21   |            Merge Two Sorted Lists          |      Easy        |  [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/21.cpp)  |
 |  100   |                 Same Tree                  |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/100.py)  |
 |  104   |        Maximum Depth of Binary Tree        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/104.py)  |
 |  108   | Convert Sorted Array to Binary Search Tree |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/108.py)  |
