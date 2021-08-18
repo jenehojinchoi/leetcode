@@ -11,7 +11,7 @@
 |   5    |       Longest Palindromic Substring        |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/5.py)   |
 |   19   |      Remove Nth Node From End of List      |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/19.py)  |
 |   21   |            Merge Two Sorted Lists          |      Easy        |  [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/21.cpp)  |
-|  100   |                 Same Tree                  |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/100.py)  |
+|  100   |                 Same Tree                  |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/100.py), [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/100.cpp)  |
 |  104   |        Maximum Depth of Binary Tree        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/104.py)  |
 |  108   | Convert Sorted Array to Binary Search Tree |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/108.py)  |
 |  110   |            Balanced Binary Tree            |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/110.py)  |
@@ -25,7 +25,7 @@
 |  136   |               Single Number                |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/136.py)  |
 |  141   |             Linked List Cycle              |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/141.py)  |
 |  155   |                 Min Stack                  |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/155.py)  |
-|  160   |      Intersection of Two Linked Lists      |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/160.py)  |
+|  160   |      Intersection of Two Linked Lists      |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/160.py), [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/160.cpp)   |
 |  167   |     Two Sum II - Input array is sorted     |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/167.py)  |
 |  168   |          Excel Sheet Column Title          |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/168.py)  |
 |  169   |              Majority Element              |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/169.py)  |
@@ -42,7 +42,7 @@
 |  203   |        Remove Linked List Elements         |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/203.py)  |
 |  204   |                Count Primes                |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/204.py)  |
 |  205   |             Isomorphic Strings             |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/205.py)  |
-|  206   |            Reverse Linked List             |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/206.py),[C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/206.cpp)  |
+|  206   |            Reverse Linked List             |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/206.py), [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/206.cpp)  |
 |  217   |             Contains Duplicate             |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/217.py)  |
 |  219   |           Contains Duplicate II            |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/219.py)  |
 |  225   |        Implement Stack using Queues        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/225.py)  |
