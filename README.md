@@ -64,6 +64,7 @@
 |  349   |         Intersection of Two Arrays         |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/349.py)  |
 |  350   |       Intersection of Two Arrays II        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/350.py)  |
 |  367   |            Valid Perfect Square            |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/367.py)  |
+|  380   |        Insert Delete GetRandom O(1)        |       Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/380.py)  |
 |  383   |                Ransom Note                 |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/383.py)  |
 |  389   |            Find the Difference             |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/389.py)  |
 |  451   |           Sort Characters By Frequency     |       Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/451.py)  |
