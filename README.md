@@ -27,6 +27,7 @@
 |  136   |               Single Number                |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/136.py)  |
 |  141   |             Linked List Cycle              |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/141.py)  |
 |  146   |                  LRU Cache                 |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/146.py)  |
+|  153   |    Find Minimum in Rotated Sorted Array    |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/153.py)  |
 |  155   |                 Min Stack                  |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/155.py)  |
 |  160   |      Intersection of Two Linked Lists      |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/160.py), [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/160.cpp)   |
 |  167   |     Two Sum II - Input array is sorted     |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/167.py)  |
