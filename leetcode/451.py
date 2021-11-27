@@ -16,3 +16,9 @@ class Solution:
         return string
 
 # 2.
+class Solution:
+    def frequencySort(self, s: str) -> str:
+        sets = set(s)
+        table = [(val, s.count(val)) for val in sets]
+        table.sort(key=lambda i: i[1], reverse = True)
+        return ''.join(map(lambda x:x[0]*x[1], table))

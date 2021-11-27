@@ -63,6 +63,7 @@
 |  268   |               Missing Number               |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/268.py)  |
 |  278   |             First Bad Version              |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/278.py)  |
 |  283   |                Move Zeroes                 |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/283.py)  |
+|  300   |        Longest Increasing Subsequence      |       Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/300.py)  |
 |  349   |         Intersection of Two Arrays         |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/349.py)  |
 |  350   |       Intersection of Two Arrays II        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/350.py)  |
 |  367   |            Valid Perfect Square            |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/367.py)  |
