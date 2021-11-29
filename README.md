@@ -74,17 +74,3 @@
 |  560   |           Subarray Sum Equals K            |      Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/560.py)  |
 |  1268  |           Search Suggestions System        |      Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/1268.py)  |
 |  1356  |   Sort Integers by The Number of 1 Bits    |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/1356.py) |
-
-### Codingtest
-
-#### DFS/BFS
-
-- freezingjuice.py
-- maze.py
-
-### Codecademy
-
-#### [Learn Sorting Algorithms with Python3](https://www.codecademy.com/learn/sorting-algorithms)
-
-- bubble_sort.py
-- merge_sort.py
