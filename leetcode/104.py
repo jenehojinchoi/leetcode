@@ -7,12 +7,18 @@
 #         self.left = left
 #         self.right = right
 
-
 class Solution:
-    def maxDepth(self, root: TreeNode) -> int:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        ldepth = self.maxDepth(root.left)
-        rdepth = self.maxDepth(root.right)
-        return max(ldepth, rdepth) + 1
+        if not root.left and not root.right:
+            return 1
         
+        left = self.maxDepth(root.left)
+        right = self.maxDepth(root.right)
+
+        return max(left, right)+1
+'''
+Runtime: 36 ms, faster than 92.09% of Python3 online submissions for Maximum Depth of Binary Tree.
+Memory Usage: 16 MB, less than 72.36% of Python3 online submissions for Maximum Depth of Binary Tree.
+'''

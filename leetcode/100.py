@@ -18,6 +18,11 @@ class Solution:
             return False
         return self.isSameTree(p.left, q.left) and self.isSameTree(p.right,q.right)
 
+'''
+Runtime: 24 ms, faster than 95.51% of Python3 online submissions for Same Tree.
+Memory Usage: 14.2 MB, less than 86.48% of Python3 online submissions for Same Tree.
+'''
+
 ## Approach 2. 
 from collections import deque 
 
