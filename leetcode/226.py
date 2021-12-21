@@ -17,6 +17,11 @@ class Solution:
         root.left  = right
         return root
 
+'''
+Runtime: 32 ms, faster than 68.69% of Python3 online submissions for Invert Binary Tree.
+Memory Usage: 14.2 MB, less than 47.45% of Python3 online submissions for Invert Binary Tree.
+'''
+
 # Approach 2.
 class Solution:
     def invertTree(self, root: TreeNode) -> TreeNode:
