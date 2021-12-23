@@ -16,6 +16,7 @@
 |  100   |                 Same Tree                  |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/100.py), [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/100.cpp)  |
 |  102   |       Binary Tree Level Order Traversal    |       Medium       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/102.py)  |
 |  104   |        Maximum Depth of Binary Tree        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/104.py)  |
+|  105 | Construct Binary Tree from Preorder and Inorder Traversal |      Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/105.py)  |
 |  108   | Convert Sorted Array to Binary Search Tree |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/108.py)  |
 |  110   |            Balanced Binary Tree            |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/110.py)  |
 |  111   |        Minimum Depth of Binary Tree        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/111.py)  |
