@@ -60,6 +60,7 @@
 |  225   |        Implement Stack using Queues        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/225.py)  |
 |  226   |             Invert Binary Tree             |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/226.py)  |
 |  228   |               Summary Ranges               |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/228.py)  |
+|  230   |       Kth Smallest Element in a BST        |      Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/230.py)  |
 |  231   |                Power of Two                |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/231.py)  |
 |  232   |        Implement Queue using Stacks        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/232.py)  |
 |  234   |           Palindrome Linked List           |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/234.py)  |
