@@ -89,6 +89,7 @@
 |  383   |                Ransom Note                 |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/383.py)  |
 |  389   |            Find the Difference             |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/389.py)  |
 |  417   |      Pacific Atlantic Water Flow           |       Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/417.py)  |
+|  424   |  Longest Repeating Character Replacement    |       Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/424.py)  |
 |  451   |           Sort Characters By Frequency     |       Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/451.py)  |
 |  560   |           Subarray Sum Equals K            |      Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/560.py)  |
 |  572   |          Subtree of Another Tree           |      Easy        | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/572.py)  |
