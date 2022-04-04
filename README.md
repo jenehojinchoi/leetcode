@@ -8,6 +8,7 @@
 | :----: | :----------------------------------------: | :--------------: | :-----------------------------------------------------------------------------------------: |
 |   1    |              Two Sum                       |      Easy        |  [C++](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/1.cpp)  |
 |   2    |              Add Two Numbers               |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/2.py)   |
+|   3    |  Longest Substring Without Repeating Characters  |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/3.py)   |
 |   5    |       Longest Palindromic Substring        |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/5.py)   |
 |   11   |       Container With Most Water            |      Medium      |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/11.py)  |
 |   14   |       Longest Common Prefix                |        Easy       |  [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/14.py)  |
