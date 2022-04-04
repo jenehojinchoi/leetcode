@@ -1,40 +1,49 @@
 # 19. Remove Nth Node From End of Linked List
 
-# Approach 1. Find length 
-# TC: O(L), SC: O(1)
+# Approach 1. Make a dummy node
 class Solution:
-    def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
-        dummy = ListNode(0) 
-        dummy.next = head
-        length = 0
-        first = head
-        while first:
-            length += 1
-            first = first.next
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        dummy = ListNode(0, head)
+        left = dummy
+        right = head
         
-        length -= n
-        first = dummy 
-        while length > 0:
-            length -= 1
-            first = first.next
-        first.next = first.next.next
+        while n > 0 and right:
+            right = right.next
+            n -= 1
+        
+        # until right reaches the end of the list
+        while right:
+            left = left.next
+            right = right.next
+            
+        # delete
+        left.next = left.next.next
+        
         return dummy.next
 
-# Approach 2. One-pass
-# TC: O(L), SC: O(1)
+'''
+Runtime: 68 ms, faster than 9.94% of Python3 online submissions for Remove Nth Node From End of List.
+Memory Usage: 13.9 MB, less than 23.01% of Python3 online submissions for Remove Nth Node From End of List.
+'''
+
+# Approach 2. No dummy node, stop when right.next = None
 class Solution:
-    def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
-        dummy = ListNode(0)
-        dummy.next = head
-        first = dummy
-        second = dummy
-
-        for i in range(n+1):
-            first = first.next
-
-        while first:
-            first = first.next
-            second = second.next
-        second.next = second.next.next
-
-        return dummy.next
+    def removeNthFromEnd(self, head, n):
+        left = right = head
+        
+        while n > 0 and right:
+            right = right.next
+            n -= 1
+        
+        if not right:
+            return head.next
+        
+        # until right reaches None
+        while right.next:
+            left = left.next
+            right = right.next
+            
+        # delete
+        left.next = left.next.next
+        
+        return head
