@@ -83,6 +83,7 @@
 |  283   |                Move Zeroes                 |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/283.py)  |
 |  297   |     Serialize and Deserialize Binary Tree   |      Hard        | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/297.py)  |
 |  300   |        Longest Increasing Subsequence      |       Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/300.py)  |
+|  347   |       Top K Frequent Elements              |       Medium      | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/347.py)  |
 |  349   |         Intersection of Two Arrays         |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/349.py)  |
 |  350   |       Intersection of Two Arrays II        |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/350.py)  |
 |  367   |            Valid Perfect Square            |       Easy       | [Python3](https://github.com/jenehojinchoi/programming_problems/blob/main/leetcode/367.py)  |
