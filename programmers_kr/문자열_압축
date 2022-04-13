@@ -1,0 +1,22 @@
+import re
+def solution(s):
+    ans = float('inf')
+    if len(s) <= 2: return len(s) 
+    
+    # choose the length of substr to be til only half of the entire string (s)
+
+    for i in range(1,len(s)//2 + 1): 
+        reList = re.sub('(\w{%i})'%i, '\g<1> ', s).split() 
+        count = 1   
+        result = [] 
+        for j in range(len(reList)): 
+            if j<len(reList)-1 and reList[j] == reList[j+1]:
+                count += 1     
+            else:
+                if count == 1:  # j>=len(reList) 일때 
+                    result.append(reList[j])
+                else:   
+                    result.append(str(count) + reList[j])
+                    count = 1 
+        ans = min(ans, len(''.join(result)))
+    return ans
